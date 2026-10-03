@@ -18,7 +18,7 @@ from plotly.subplots import make_subplots
 
 import fetch_data
 
-CODE_INSEE = "63113"  # Clermont-Ferrand (le code INSEE figure sur la page Wikipédia de la commune)
+CODE_INSEE = "69123"  # LYON (le code INSEE figure sur la page Wikipédia de la commune)
 SEUIL_VIGILANCE, SEUIL_ALERTE = 8, 12  # capacité de désendettement, en années
 BLEU, GRIS, ORANGE, ROUGE, VERT = "#1f4e79", "#9aa5b1", "#e69f00", "#c0392b", "#2e8b57"
 
